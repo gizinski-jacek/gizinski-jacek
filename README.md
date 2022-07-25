@@ -48,9 +48,11 @@
   <a href="https://expressjs.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="express" width="48" height="48"/>
   </a>
+  <!--
   <a href="https://nestjs.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="48" height="48"/>
   </a>
+  -->
   <a href="https://pugjs.org" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/pugjs/pugjs-icon.svg" alt="pug" width="48" height="48"/>
   </a>
