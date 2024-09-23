@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jacek</h1>
 <h3 align="center">A passionate self-taught Full-stack Web Developer from Poland</h3>
 
-<p align="center">💡 I’m currently learning <b>React, Redux, NextJS, Bootstrap and Jest.</b></p>
+<!--  <p align="center">💡 I’m currently learning <b>React, Redux, NextJS, Bootstrap and Jest.</b></p>  -->
 <p align="center">📑 My personal website is available at <a href="https://jacekgizinski.site" target="_blank" rel="noreferrer">https://jacekgizinski.site</a></p>
 <p align="center">💼 You can check out all my projects on <a href="https://github.com/gizinski-jacek?tab=repositories" target="_blank" rel="noreferrer">my GitHub profile.</a></p>
 <p align="center">📧 Feel free to contact me at <b>gizinski.jacek.tr@gmail.com</b></p>
