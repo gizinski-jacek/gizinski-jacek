@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jacek</h1>
-<h3 align="center">A passionate self-taught Full-stack Web Developer from Poland</h3>
+<h3 align="center">A passionate self-taught Fullstack Web Developer from Poland</h3>
 
 <!--  <p align="center">💡 I’m currently learning <b>NestJS.</b></p>  -->
 <p align="center">📑 My personal website is available at <a href="https://jacekgizinski.site" target="_blank" rel="noreferrer">https://jacekgizinski.site</a></p>
@@ -53,6 +53,9 @@
   </a>
   <a href="https://mongoosejs.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongoose/mongoose-original-wordmark.svg" alt="mongoose" width="48" height="48"/>
+  </a>
+  <a href="https://nestjs.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/nestjs/nestjs-original.svg" alt="nestjs" width="48" height="48"/>
   </a>
   <a href="https://graphql.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/graphql/graphql-plain.svg" alt="graphql" width="48" height="48"/>
